@@ -1,0 +1,50 @@
+/*CLASES GENERALES*/
+section{
+  left: 40%;
+}
+.caja{
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+}
+
+.med{
+  position: relative;
+  top: 70px;
+  left: 70px;
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+}
+
+.peq{
+  position: relative;
+  width: 70px;
+  height: 70px;
+  border: 1px solid black;
+}
+
+/*CLASES ESPECIFICAS*/
+#rojo{
+  background-color: red;
+}
+#morado{
+  background-color: purple;
+}
+#amarillo{
+  background-color: yellow;
+}
+
+#azul{
+  position: relative;
+  top: 30px;
+  background-color: blue;
+}
+#negro{
+  position: relative;
+  background-color: black;
+}
+#verde{
+  top: 0px;
+  background-color: green;
+}
